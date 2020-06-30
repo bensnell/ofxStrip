@@ -1,8 +1,10 @@
 //Written by Theo Watson - http://theowatson.com
 //Work in progress class for doing opengl strips / ribbons 
 
+// Edited and improved by Ben Snell
+
 #pragma once
-#include "ofMesh.h"
+#include "ofMain.h"
 
 class ofxStrip{
 
